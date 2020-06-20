@@ -1,1 +1,2 @@
-# The-War-of-Bubbles
+# projectC42
+Bubble Shooting game || Bubble War

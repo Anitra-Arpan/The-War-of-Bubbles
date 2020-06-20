@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h2 {
+  color:#f801ba;
+  justify-content: center;
+}
+h3 {
+  color: rgba(252, 1, 168, 0.911);
+}
